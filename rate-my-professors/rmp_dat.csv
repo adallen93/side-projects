@@ -1,0 +1,250 @@
+school_id,school_name,undergraduate_enrollment,student_to_faculty_ratio,classes_less_than_20,acceptance_rate,graduation_rate,annual_cost,usnews_score,funding,type,state,state_abb,city,rmp_school_score,department,equivalent_byui_college,professor_name,overall_quality,difficulty,would_take_again,n_ratings
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Health Science,College of Agriculture and Life Sciences,Steven Machek,3,4,1,1
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Health Science,College of Agriculture and Life Sciences,Ken Howat,3.5,3,NA,3
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Health Science,College of Agriculture and Life Sciences,Joanne Perron,4.9,2.7,NA,5
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Health Science,College of Agriculture and Life Sciences,Christine Der,4.5,1.9,0.73,32
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Health Science,College of Agriculture and Life Sciences,Lachanda Davis,5,4,1,1
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Business,College of Business and Communication,Dianne Harrison,5,5,NA,1
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Business,College of Business and Communication,Walt Henning,3.3,3.4,NA,5
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Business,College of Business and Communication,Pat Tinsley,5,4,NA,2
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Business,College of Business and Communication,Sarah Faulkner,2.9,2.6,NA,6
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Business,College of Business and Communication,Maria Thomas,5,2,NA,2
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Education,College of Education and Human Development,Kimberly Crossman,5,3.2,1,9
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Education,College of Education and Human Development,Carl Ferguson,2.8,3,NA,2
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Education,College of Education and Human Development,Charles Fuller,3,2,0,1
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Education,College of Education and Human Development,Sofia Matrosova-Khalil,4,2,1,2
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Education,College of Education and Human Development,Rob Weisskirch,3.5,3.9,0.75,28
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Languages,College of Language and Letters,Hope Anderson,4.8,2.6,NA,8
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Languages,College of Language and Letters,Judy Cortes,1.3,4,0,3
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Languages,College of Language and Letters,Dra. Maria Zielina,2.7,2.6,NA,5
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Languages,College of Language and Letters,Ovidio Casado-Fuente,3.4,3.2,NA,5
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Languages,College of Language and Letters,Irma Orjuela-Astier,3.2,2.7,0.5,3
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Mathematics,College of Physical Sciences and Engineering,Luke Spence,4.1,2.6,NA,20
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Mathematics,College of Physical Sciences and Engineering,Arne Duncan,1.8,5,NA,2
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Mathematics,College of Physical Sciences and Engineering,Julie Lu Visi,4.2,3.2,0.9,18
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Mathematics,College of Physical Sciences and Engineering,Alysia Goya,2.5,3.7,0.5,3
+168,California State University Monterey,6693,24,0.36,0.93,0.32,13597,0.66,public,traditional,California,CA,Seaside,3.4,Mathematics,College of Physical Sciences and Engineering,Kristin Gaines,4.4,2.7,1,4
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Biology,College of Agriculture and Life Sciences,Dawn Carone ,5,4,1,1
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Biology,College of Agriculture and Life Sciences,Kathy Siwicki,2.5,4.2,1,12
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Biology,College of Agriculture and Life Sciences,Terence Leach,5,4,1,1
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Biology,College of Agriculture and Life Sciences,Nick Kaplinsky,4.6,3.2,1,5
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Biology,College of Agriculture and Life Sciences,Brad Davidson,3,4.2,NA,5
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Economics,College of Business and Communication,Kara Dimitruk,1,3,0.8,1
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Economics,College of Business and Communication,Erin Broncetti,4.6,2.8,1,17
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Economics,College of Business and Communication,Daifeng He,5,4,1,1
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Economics,College of Business and Communication,Larry Westphal,2.7,4.2,NA,16
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Economics,College of Business and Communication,Steve Golub,3.6,3.8,0.67,23
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Education,College of Education and Human Development,K. Ann Renninger,4.9,4.3,1,3
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Education,College of Education and Human Development,Elaine Allard,3.2,3.3,1,3
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Education,College of Education and Human Development,Frank Grossman,4.4,3.3,NA,8
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Education,College of Education and Human Development,Jen Bradley,4.5,3,0.5,2
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Education,College of Education and Human Development,Diane Anderson,4.3,2.8,0.75,9
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,English,College of Language and Letters,Lara Cohen,4,3,1,2
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,English,College of Language and Letters,Sangina Patnaik,4,3.5,0.75,4
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,English,College of Language and Letters,Carolyn Lesjak,3.3,3,NA,6
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,English,College of Language and Letters,Philip Weinstein,4.8,3,NA,3
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,English,College of Language and Letters,Alba Newman-Holmes,4.5,2.5,1,2
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Mathematics,College of Physical Sciences and Engineering,William Kronholm,4,4,NA,1
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Mathematics,College of Physical Sciences and Engineering,Victor Barranca,4.6,3.6,1,7
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Mathematics,College of Physical Sciences and Engineering,Diana Davis,3.6,3.9,0.72,66
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Mathematics,College of Physical Sciences and Engineering,Phil Everson,4.7,2.6,1,8
+990,Swarthmore College,1651,8,0.67,0.08,0.87,20813,0.94,private,traditional,Pennsylvania,PA,Swarthmore,4.1,Mathematics,College of Physical Sciences and Engineering,Lucas Van Meter,3.7,3,0.5,3
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Biology,College of Agriculture and Life Sciences,Denise Jacoby,3.6,3.5,1,32
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Biology,College of Agriculture and Life Sciences,Ashley Roney,3.8,3.5,NA,4
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Biology,College of Agriculture and Life Sciences,Jeremy Ellermeier,2.5,4,0.45,12
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Biology,College of Agriculture and Life Sciences,Rebecka Brasso,4.3,4,1,3
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Biology,College of Agriculture and Life Sciences,Jessica Crites,5,4,1,2
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Business Administration,College of Business and Communication,Yvonne Randalph,4.4,2.5,0.96,16
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Business Administration,College of Business and Communication,Debra Hoffman,4.5,2,1,2
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Business Administration,College of Business and Communication,Dana Schwieger,1,5,0,1
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Business Administration,College of Business and Communication,Sarah Holt,3.6,3,0.89,9
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Business Administration,College of Business and Communication,James Caldwell,4.1,2.2,0.5,14
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Education,College of Education and Human Development,Amy Freshwater,2.6,3.6,0,29
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Education,College of Education and Human Development,Jean Benton,2.6,2.5,NA,12
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Education,College of Education and Human Development,Anna Gifford,3.5,4,NA,2
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Education,College of Education and Human Development,Victor Willburn,3.7,2,0,15
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Education,College of Education and Human Development,Melissa Graham,4.1,2.8,0.67,21
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,English,College of Language and Letters,Dale Haskell,4,2,1,60
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,English,College of Language and Letters,Susan Swartwout,4.6,2.9,NA,13
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,English,College of Language and Letters,Stacey Rollins,3.7,2.9,NA,36
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,English,College of Language and Letters,Ryan Thornsberry,3.4,2.8,NA,18
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,English,College of Language and Letters,Leslie Evans,3.9,3.1,NA,11
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Mathematics,College of Physical Sciences and Engineering,Trenton Crews,3.4,2.9,NA,27
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Mathematics,College of Physical Sciences and Engineering,Candide Walton,4,2.1,NA,14
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Mathematics,College of Physical Sciences and Engineering,Jim McEwen,3.5,3.4,0.25,5
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Mathematics,College of Physical Sciences and Engineering,Cheryl McCalister,5,2.7,1,3
+916,Southeast Missouri State University,8628,20,0.52,0.77,0.35,13568,0.52,public,traditional,Missouri,MO,Cape Girardeau,3.6,Mathematics,College of Physical Sciences and Engineering,Yanping Xia,2.5,3.1,0.37,24
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Biology,College of Agriculture and Life Sciences,Eben Alsberg,4.7,2.9,NA,9
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Biology,College of Agriculture and Life Sciences,Cara Henry,4.8,2.5,NA,2
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Biology,College of Agriculture and Life Sciences,Yu Xin,4.3,3.5,0,4
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Biology,College of Agriculture and Life Sciences,Patrick Crago,3.3,4,NA,2
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Biology,College of Agriculture and Life Sciences,Colin Drummond,3.9,2,1,6
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Management,College of Business and Communication,Kamlesh Mathur,3.4,2,1,2
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Management,College of Business and Communication,Njoke Thomas,5,1,NA,1
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Management,College of Business and Communication,Stephen Brady,2.7,3.7,0.58,7
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Management,College of Business and Communication,Daniel Solow,1.2,4.8,0,5
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Management,College of Business and Communication,QI WU,4.5,2.3,1,16
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Education,College of Education and Human Development,James Eller,5,3,1,5
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Education,College of Education and Human Development,Alexander Aitken,4.2,3.1,1,14
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Education,College of Education and Human Development,Christopher Pekoc,2.3,3.9,0.25,13
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Education,College of Education and Human Development,Susan Herron,1,1,0,1
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Education,College of Education and Human Development,Margaret Fischer,4.9,4.5,1,6
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,English,College of Language and Letters,Daniel Melnick,3.9,1.4,1,7
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,English,College of Language and Letters,Glenn Odenbrett,2.3,4.2,0.5,4
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,English,College of Language and Letters,James Kuzner,4.5,2.5,NA,7
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,English,College of Language and Letters,Christopher Strathman,2.3,2.5,1,2
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,English,College of Language and Letters,Sarah Gridley,4.2,2.5,1,11
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Mathematics,College of Physical Sciences and Engineering,Deping Ye,3.3,2.5,NA,2
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Mathematics,College of Physical Sciences and Engineering,Pradipta Bandyopadhyay,2.1,4.8,NA,4
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Mathematics,College of Physical Sciences and Engineering,Pawel Wolff,4.8,2,NA,2
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Mathematics,College of Physical Sciences and Engineering,Upendra Prasad,3.9,2.9,NA,11
+186,Case Western Reserve University,5792,9,0.59,0.3,0.67,34214,0.72,private,traditional,Ohio,OH,Cleveland,3.8,Mathematics,College of Physical Sciences and Engineering,Stephen Sidik,2.6,3.4,0.25,17
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Biology,College of Agriculture and Life Sciences,Alicia Zupan,5,3,1,1
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Biology,College of Agriculture and Life Sciences,Susan Deane,4.9,1.8,1,5
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Biology,College of Agriculture and Life Sciences,Michelle Fuhrman,4,4,1,1
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Biology,College of Agriculture and Life Sciences,Janice Andrews,3.3,3.7,0.34,3
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Biology,College of Agriculture and Life Sciences,Alison Birks,4,3,NA,1
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Business,College of Business and Communication, Lisa Bigelow,1,1,NA,1
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Business,College of Business and Communication,Cheryl Harrison,4,4,0,1
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Business,College of Business and Communication,Bert Ouderkirk,5,5,NA,1
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Business,College of Business and Communication,Rebecca Natale,4.5,3.5,1,2
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Business,College of Business and Communication,Carmen Canales,5,2,1,1
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Education,College of Education and Human Development,Pamela Giberty,1.6,4.2,0.2,9
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Education,College of Education and Human Development,Gayle Van Dijk,4.7,2,NA,3
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Education,College of Education and Human Development,Carol Weisburg,4,4,1,1
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Education,College of Education and Human Development,Jean Berresi,4.5,3.5,1,2
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Education,College of Education and Human Development,Jo-Ann Williams,1,4,0,2
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,English,College of Language and Letters,David Sloane,3.5,4,NA,1
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,English,College of Language and Letters,Jennifer Lapinel-Spincken,4,4,0.75,4
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,English,College of Language and Letters,Lois Church,5,3,1,1
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,English,College of Language and Letters,Ruth MacDonald,4.1,3.6,0.5,14
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,English,College of Language and Letters,Deborah Bradford,3.8,2.8,NA,4
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,English,College of Physical Sciences and Engineering,Michelle Rudden,1.6,4.4,0,12
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Mathematics,College of Physical Sciences and Engineering,Marsha Jones,2,4.5,0.34,4
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Mathematics,College of Physical Sciences and Engineering,Jody Tate,4.6,2.9,1,8
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Mathematics,College of Physical Sciences and Engineering,Keith Earnshaw,5,3,1,1
+209,Charter Oak State College,1501,13,NA,1,0.509,8254,NA,public,online,Connecticut,CT,New Britain,4.1,Mathematics,College of Physical Sciences and Engineering,Andre Freeman,2.8,4.3,0.72,13
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Biology,College of Agriculture and Life Sciences,James Tuohy,5,4,1,1
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Biology,College of Agriculture and Life Sciences,Jan Frye,4.7,2.7,NA,3
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Biology,College of Agriculture and Life Sciences,Eric Casler,3,4,0.5,2
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Biology,College of Agriculture and Life Sciences,Paula Gentry,2.7,3.7,NA,2
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Biology,College of Agriculture and Life Sciences,Jeff Hill,5,2.5,1,2
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Business,College of Business and Communication,Bob Carson,5,4,NA,1
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Business,College of Business and Communication,Jennifer Cook,5,4,NA,1
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Business,College of Business and Communication,Linda Baldwin,4,1,NA,1
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Business,College of Business and Communication,Irene Meares,2.5,1,NA,2
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Business,College of Business and Communication,Laurie Barfitt,4.3,4,1,2
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Education,College of Education and Human Development,Trinidad Tolar,3,3.5,1,2
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Education,College of Education and Human Development,Carlos Del Rio,1,2,0,2
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Education,College of Education and Human Development,Roberta Marquez,3.9,3.6,0.78,18
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Education,College of Education and Human Development,Manuel Bustamante,5,2.5,1,8
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Education,College of Education and Human Development,Don Risdon,4.4,3.8,0.92,52
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,English,College of Language and Letters,Sharman Russell,5,3,NA,2
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,English,College of Language and Letters,Andrew Joy,4.8,3,1,3
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,English,College of Language and Letters,Royce Grubic,1.8,4.6,0.2,5
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,English,College of Language and Letters,Tamer Ellis,2,3,NA,1
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,English,College of Language and Letters,Bill Toth,4.1,2.1,1,5
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,English,College of Physical Sciences and Engineering,Beattie Linda,1.3,3,NA,4
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Mathematics,College of Physical Sciences and Engineering,Rex Johnson,1.2,3.7,NA,3
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Mathematics,College of Physical Sciences and Engineering,Shannon Muehlhausen,5,1,NA,1
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Mathematics,College of Physical Sciences and Engineering,Alireza Arasteh,4.2,2.1,1,15
+672,Western New Mexico University,3479,12,NA,1,0.333,13679,0.25,public,traditional,New Mexico,NM,Silver City,2.7,Mathematics,College of Physical Sciences and Engineering,Mitra Ahsan,1,2,NA,1
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Biology,College of Agriculture and Life Sciences,Vincent Hustad,5,3,1,1
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Biology,College of Agriculture and Life Sciences,Charles Lamb,3.1,4.6,1,9
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Biology,College of Agriculture and Life Sciences,Shane Sarver,2.8,2.3,0,4
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Biology,College of Agriculture and Life Sciences,Raeann Mettler,1.4,2.8,0,1
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Biology,College of Agriculture and Life Sciences,Holly Downing,2.2,3.8,0.25,5
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Business,College of Business and Communication,David Scarborough,4.8,3,NA,2
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Business,College of Business and Communication,Liz Diers,2.5,2,NA,1
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Business,College of Business and Communication,Avi Jain,2.5,2.7,1,3
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Business,College of Business and Communication,Adam Bailey,3.6,2.4,0.6,5
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Business,College of Business and Communication,Blake Rayfield,4.8,3,1,4
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Education,College of Education and Human Development,Laura Turner,1.2,5,NA,3
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Education,College of Education and Human Development,Cody Lawson,4.7,1.7,1,3
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Education,College of Education and Human Development,Brian Eberhard,4,3,1,1
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Education,College of Education and Human Development,Denice Turner,4,3,1,1
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Education,College of Education and Human Development,Sharman Adams,5,2,1,1
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,English,College of Language and Letters,Carol Duncan,4.5,3,1,2
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,English,College of Language and Letters,Brandyn Jonson,3,2,0.67,1
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,English,College of Language and Letters,Nicolas Wallerstein,4.5,2.8,1,18
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,English,College of Language and Letters,Vincent King,2.8,4.3,0.43,45
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,English,College of Language and Letters,Rhonda Mehrer,1.2,4.5,0,8
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,English,College of Physical Sciences and Engineering,Jeff Winter,5,3,1,1
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Mathematics,College of Physical Sciences and Engineering,Daniel Swenson,3.1,3.4,0.5,12
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Mathematics,College of Physical Sciences and Engineering,Parthasarathi Nag,2.6,4,0.4,10
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Mathematics,College of Physical Sciences and Engineering,Holly Stillson,3,2.3,NA,3
+115,Black Hills State University,3346,16,0.6,0.83,0.371,16961,0.25,public,traditional,South Dakota,SD,Spearfish,3.1,Mathematics,College of Physical Sciences and Engineering,Liz Lane-Harvard,3.8,4,NA,2
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Biology,College of Agriculture and Life Sciences,Robin Vance,4.1,3.1,1,10
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Biology,College of Agriculture and Life Sciences,Scott Herbert,3.7,4.4,NA,8
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Biology,College of Agriculture and Life Sciences,Brian Ness,3.1,3.3,0.84,18
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Biology,College of Agriculture and Life Sciences,Brian Wong,3.7,4.4,NA,8
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Biology,College of Agriculture and Life Sciences,Amy Wyrick,3.8,4.4,0.78,25
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Business,College of Business and Communication,Larry Taylor,4.5,2.1,NA,18
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Business,College of Business and Communication,David Bell,4.2,2.6,1,5
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Business,College of Business and Communication,Abram Fisher,3.7,3,0.67,3
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Business,College of Business and Communication,Dan Madrid,4.4,2.3,NA,7
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Business,College of Business and Communication,John Nunes,5,2,1,2
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Social Work,College of Education and Human Development,Alisa Jacobo,4.2,2.8,1,5
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Psychology,College of Education and Human Development,Aubyn Fulton,4.4,3.6,1,27
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Psychology,College of Education and Human Development,James Cephas,3.5,1.8,0.67,6
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Psychology,College of Education and Human Development,Charlene Bainum,4.4,2.3,0,35
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Psychology,College of Education and Human Development,Micael Milmine,4.8,2.6,1,5
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,English,College of Language and Letters,Sara Kakazu,4,3,0,4
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,English,College of Language and Letters,Peter Katz,5,2,1,4
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,English,College of Language and Letters,John McDowell,5,3.3,NA,3
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,English,College of Language and Letters,Georgina Hill,5,3,NA,1
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,English,College of Language and Letters,Cynthia Westerbeck,4.8,3.3,1,3
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Mathematics,College of Physical Sciences and Engineering,Roy Benton,3,3.4,0.34,7
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Mathematics,College of Physical Sciences and Engineering,Lloyd Best,4.6,2.3,1,13
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Mathematics,College of Physical Sciences and Engineering,Chantel Blackburn,1.5,4.7,0,12
+751,Pacific Union College,825,11,0.73,0.58,0.25,21259,0.46,private,religious,California,CA,Angwin,3.7,Mathematics,College of Physical Sciences and Engineering,Steve Waters,4,2.9,NA,12
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Biology,College of Agriculture and Life Sciences,Steven Haase,3.6,3.4,1,32
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Biology,College of Agriculture and Life Sciences,Susan Alberts,3.4,2.8,0,10
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Biology,College of Agriculture and Life Sciences,Jill Rhodes,4.7,1.7,NA,6
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Biology,College of Agriculture and Life Sciences,Emily Bernhardt,3.3,3.6,1,14
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Biology,College of Agriculture and Life Sciences,H. Frederik Nijhout,3.6,3.2,1,9
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Business,College of Business and Communication,Ming Yang,3.1,2.9,1,8
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Business,College of Business and Communication,Rachelle Macon,1,5,0,3
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Business,College of Business and Communication,Paula Eckland,3,3.5,0.5,2
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Business,College of Business and Communication,Alon Brav,4,3.5,NA,4
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Business,College of Business and Communication,Amanda Starling Gould,5,1,1,2
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Education,College of Education and Human Development,Anne Brewster,4.4,2.7,NA,15
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Education,College of Education and Human Development,Molly Goldwasser,3,1.5,0.67,2
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Education,College of Education and Human Development,Sue Wasiolek,5,3,1,1
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Education,College of Education and Human Development,Amy Anderson,4.2,1.5,0.84,18
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Education,College of Education and Human Development,Aaron Colston,2,2,1,1
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,English,College of Language and Letters,Jessica Boon,4.5,3.3,NA,13
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,English,College of Language and Letters,Sarah Beckwit,3.9,2.7,1,8
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,English,College of Language and Letters,Marianna Torgovnick,3.2,3.1,1,15
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,English,College of Language and Letters,Fiona Somerset,4.6,1.8,NA,10
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,English,College of Language and Letters,Hilarie Lloyd,5,4.2,1,4
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Mathematics,College of Physical Sciences and Engineering,Mathias Heymann,4.2,2.5,NA,13
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Mathematics,College of Physical Sciences and Engineering,Richard Hain,3.5,4.3,0.5,14
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Mathematics,College of Physical Sciences and Engineering,Sergei Belov,1.8,4.3,NA,6
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Mathematics,College of Physical Sciences and Engineering,David Kraines,3.2,3.1,NA,15
+1350,Duke University,6883,6,0.7,0.06,0.91,32459,0.92,private,traditional,North Carolina,NC,Durham,4.5,Mathematics,College of Physical Sciences and Engineering,Matt Bowen,2.3,4,NA,10
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Biology,College of Agriculture and Life Sciences,Erick Powell,4.5,2,NA,2
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Biology,College of Agriculture and Life Sciences,Doug Gardner,3.3,3.5,NA,4
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Biology,College of Agriculture and Life Sciences,Carter Tate,3.5,2,NA,2
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Biology,College of Agriculture and Life Sciences,Jae Cauble,4.2,2.7,NA,81
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Biology,College of Agriculture and Life Sciences,Jacob Thatcher,4.5,4,NA,2
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Business,College of Business and Communication,Bruce Kusch,2.9,3.5,NA,15
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Business,College of Business and Communication,Kevin Shiley,3.7,3,NA,22
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Business,College of Business and Communication,Candyce Miller,1.6,3.7,NA,43
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Business,College of Business and Communication,Gordon Santhoff,4.1,2.5,1,4
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Business,College of Business and Communication,Darin Holderness,5,1,NA,1
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Education,College of Education and Human Development,V J Lammons,4.8,1.9,NA,11
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Education,College of Education and Human Development,Lynda Hawkes,3.1,2.8,0.19,58
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Education,College of Education and Human Development,Teresa Blakely,4.3,2.6,0.86,14
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Education,College of Education and Human Development,Bryce Owens,4.2,1.4,NA,11
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Education,College of Education and Human Development,Linda Hodgen,1.8,3,NA,6
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,English,College of Language and Letters,Greg Hazard,4.8,1.6,1,45
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,English,College of Language and Letters,Kim Ence,4.1,2.4,NA,7
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,English,College of Language and Letters,Julie Engstrom,4.9,1.3,NA,13
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,English,College of Language and Letters,Phillip Murdock,3.8,3,NA,38
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,English,College of Language and Letters,Janet Christensen,4.1,3,0.5,34
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Mathematics,College of Physical Sciences and Engineering,Anna Pruett,2.3,3.1,NA,18
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Mathematics,College of Physical Sciences and Engineering,Jeremy Snell,4.4,1.8,NA,42
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Mathematics,College of Physical Sciences and Engineering,Ronald Lagerstorm,5,2.8,NA,5
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Mathematics,College of Physical Sciences and Engineering,Larry Bassist,3,2.5,NA,2
+1754,Brigham Young University-Idaho,44481,21,NA,0.97,0.65,6698,0.53,private,religious,Idaho,ID,Rexburg,4.2,Mathematics,College of Physical Sciences and Engineering,Richard Nygaard,4.4,2.9,0,7
